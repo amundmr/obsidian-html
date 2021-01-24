@@ -1,3 +1,5 @@
+# THIS REPO IS OUTDATED AND IS LEFT  4 DEAD. Please refer to main repo: [kmaasrud/oboe](https://github.com/kmaasrud/oboe).
+
 # Obsidian to HTML converter
 
 This is a short Python script to convert an [Obsidian](https://obsidian.md/) vault into a vault of HTML files, with the goal of publishing them as static files. It is heavily dependent on the excellent [markdown2](https://github.com/trentm/python-markdown2) by [trentm](https://github.com/trentm), but also deals with some parsing and file handling that makes it compatible with Obsidian's flavor of Markdown.
